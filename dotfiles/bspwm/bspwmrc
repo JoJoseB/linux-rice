@@ -22,3 +22,4 @@ bspc config focus_follows_pointer    true
 sxhkd &
 picom -b --config /home/jose/.config/picom/picom.conf &
 polybar &
+feh --bg-scale /home/$USER/.config/feh/wallpaper.png &
